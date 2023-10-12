@@ -5,6 +5,6 @@ I basically just re-implemented the code with some changes which I think is bett
 * To run:
     - Prepare the data file in the same format as those in *data/*
     - Change filename and parameters in *main.py*
-    - [i]python -i main.py
+    - [i]python -i main.py (python >= 3.7)
 
 **By experiments, I get the same results but *faster time* compare to** [Efficient-Apriori](https://github.com/tommyod/Efficient-Apriori)
